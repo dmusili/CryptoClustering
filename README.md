@@ -7,3 +7,7 @@ We start of by reading a csv file that has the cryptocurrences. Thereafter, we s
 4) Find the Best Value for k Using the PCA Data
 5) Cluster Cryptocurrencies with K-Means Using the PCA Data
 6) Determine the Weights of Each Feature on Each Principal Component
+
+The code in this project is written in Python. It uses the scikit-learn library for the data analysis.
+
+The project can be run on either Visual Studio Code, Jupyter or Collab.
